@@ -1,5 +1,5 @@
 {
-  "name": "youtube-thumbnail",
+  "name": "@jombidev/youtube-thumbnail",
   "version": "1.4.0",
   "description": "get thumbnail images for youtube videos",
   "main": "index.js",
